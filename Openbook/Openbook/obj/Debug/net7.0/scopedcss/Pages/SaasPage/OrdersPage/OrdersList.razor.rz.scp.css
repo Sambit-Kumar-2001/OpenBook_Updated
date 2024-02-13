@@ -1,0 +1,53 @@
+.plan-header[b-ewkcwndmlr] {
+    margin: 0 0 16px 0;
+}
+.plan-header .plan-widget-icon[b-ewkcwndmlr] {
+        background: #ECEBFF;
+        padding: 10px;
+        border-radius: 16px;
+    }
+.plan-header .plan-title[b-ewkcwndmlr] {
+
+    }
+.plan-header .plan-name[b-ewkcwndmlr] {
+        font-weight: 700;
+    }
+
+h4[b-ewkcwndmlr] {
+    font-weight: 600;
+    font-size: 18px;
+}
+.plan-description ul li[b-ewkcwndmlr] {
+    margin: 0 0 14px 0;
+}
+
+.plan-description ul li span[b-ewkcwndmlr] {
+        background: #4A3AFF;
+        color: #fff;
+        display: inline-flex;
+        margin: 0;
+        padding: 3px;
+        line-height: 0;
+    }
+
+.rounded-circle[b-ewkcwndmlr] {
+    border-radius: 50% !important;
+}
+.plan-description[b-ewkcwndmlr] {
+    margin: 0 0 34px 0;
+}
+.price-dollar h1 span[b-ewkcwndmlr] {
+    font-weight: 500;
+    color: #878A99;
+    font-size: 13px;
+}
+.price-dollar h1[b-ewkcwndmlr] {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+}
+.plan-description h6[b-ewkcwndmlr] {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 18px 0;
+}

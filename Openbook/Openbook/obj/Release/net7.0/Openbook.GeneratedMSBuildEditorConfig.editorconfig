@@ -1,0 +1,663 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Openbook
+build_property.RootNamespace = Openbook
+build_property.ProjectDir = C:\Suvendu Drive\Freelance Website\Openbook\Openbook\Openbook\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Suvendu Drive\Freelance Website\Openbook\Openbook\Openbook
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/AccountPages/ChartofAccountPage/ChartofAccount.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXENoYXJ0b2ZBY2NvdW50UGFnZVxDaGFydG9mQWNjb3VudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/AccountPages/ChartofAccountPage/ChartofAccountAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXENoYXJ0b2ZBY2NvdW50UGFnZVxDaGFydG9mQWNjb3VudEFkZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/AccountPages/ChartofAccountPage/ChartofAccountEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXENoYXJ0b2ZBY2NvdW50UGFnZVxDaGFydG9mQWNjb3VudEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/AccountPages/JournalVoucher/JournalsList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXEpvdXJuYWxWb3VjaGVyXEpvdXJuYWxzTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/AccountPages/JournalVoucher/JournalsPrintPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXEpvdXJuYWxWb3VjaGVyXEpvdXJuYWxzUHJpbnRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/AccountPages/JournalVoucher/JournalsViewPag.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXEpvdXJuYWxWb3VjaGVyXEpvdXJuYWxzVmlld1BhZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Authentaction/ChangePasswordPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGFjdGlvblxDaGFuZ2VQYXNzd29yZFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Authentaction/CompanyRegister/CompanyRegisterPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGFjdGlvblxDb21wYW55UmVnaXN0ZXJcQ29tcGFueVJlZ2lzdGVyUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Authentaction/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGFjdGlvblxMb2dpblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Authentaction/PlanRequestList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGFjdGlvblxQbGFuUmVxdWVzdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Authentaction/RegisterPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGFjdGlvblxSZWdpc3RlclBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Authentaction/UserListPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGFjdGlvblxVc2VyTGlzdFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Authentaction/UserPage/UserCompanyPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGFjdGlvblxVc2VyUGFnZVxVc2VyQ29tcGFueVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Authentaction/UserPage/UserEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGFjdGlvblxVc2VyUGFnZVxVc2VyRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Authentaction/UserPage/UserList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGFjdGlvblxVc2VyUGFnZVxVc2VyTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/FrontEndPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJvbnRFbmRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PaymentMadePage/PaymentMadeAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudE1hZGVQYWdlXFBheW1lbnRNYWRlQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PaymentMadePage/PaymentMadeEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudE1hZGVQYWdlXFBheW1lbnRNYWRlRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PaymentMadePage/PaymentMadeList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudE1hZGVQYWdlXFBheW1lbnRNYWRlTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PaymentMadePage/PaymentMadePrint.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudE1hZGVQYWdlXFBheW1lbnRNYWRlUHJpbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PaymentMadePage/PaymentMadeView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudE1hZGVQYWdlXFBheW1lbnRNYWRlVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PaymentReceiptPage/PaymentReceiptEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFJlY2VpcHRQYWdlXFBheW1lbnRSZWNlaXB0RWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PaymentReceiptPage/PaymentReceiptList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFJlY2VpcHRQYWdlXFBheW1lbnRSZWNlaXB0TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PaymentReceiptPage/PaymentReceiptPrint.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFJlY2VpcHRQYWdlXFBheW1lbnRSZWNlaXB0UHJpbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PaymentReceiptPage/PaymentReceiptView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFJlY2VpcHRQYWdlXFBheW1lbnRSZWNlaXB0Vmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PaymentReceiptPage/ReceiptMadeAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFJlY2VpcHRQYWdlXFJlY2VpcHRNYWRlQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/AdvancePaymentPage/AdvancePaymentAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcQWR2YW5jZVBheW1lbnRQYWdlXEFkdmFuY2VQYXltZW50QWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/AdvancePaymentPage/AdvancePaymentEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcQWR2YW5jZVBheW1lbnRQYWdlXEFkdmFuY2VQYXltZW50RWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/AdvancePaymentPage/AdvancePaymentList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcQWR2YW5jZVBheW1lbnRQYWdlXEFkdmFuY2VQYXltZW50TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/AttendancePage/AttendanceAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcQXR0ZW5kYW5jZVBhZ2VcQXR0ZW5kYW5jZUFkZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/AttendancePage/AttendancePageList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcQXR0ZW5kYW5jZVBhZ2VcQXR0ZW5kYW5jZVBhZ2VMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/BonusDeductionPage/BonusDeducationAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcQm9udXNEZWR1Y3Rpb25QYWdlXEJvbnVzRGVkdWNhdGlvbkFkZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/BonusDeductionPage/BonusDeducationEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcQm9udXNEZWR1Y3Rpb25QYWdlXEJvbnVzRGVkdWNhdGlvbkVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/BonusDeductionPage/BonusDeducationList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcQm9udXNEZWR1Y3Rpb25QYWdlXEJvbnVzRGVkdWNhdGlvbkxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/DesignationPage/DesignationList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcRGVzaWduYXRpb25QYWdlXERlc2lnbmF0aW9uTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/EmployeePage/EmployeeAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcRW1wbG95ZWVQYWdlXEVtcGxveWVlQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/EmployeePage/EmployeeEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcRW1wbG95ZWVQYWdlXEVtcGxveWVlRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/EmployeePage/EmployeeList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcRW1wbG95ZWVQYWdlXEVtcGxveWVlTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/MonthlySalarySettingPage/MonthlySalarySetting.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcTW9udGhseVNhbGFyeVNldHRpbmdQYWdlXE1vbnRobHlTYWxhcnlTZXR0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/MonthlySalarySettingPage/MonthlySalarySettinglist.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcTW9udGhseVNhbGFyeVNldHRpbmdQYWdlXE1vbnRobHlTYWxhcnlTZXR0aW5nbGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/PayheadPage/PayheadList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcUGF5aGVhZFBhZ2VcUGF5aGVhZExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/SalaryPackagePage/SalaryPackageAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcU2FsYXJ5UGFja2FnZVBhZ2VcU2FsYXJ5UGFja2FnZUFkZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/SalaryPackagePage/SalaryPackageEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcU2FsYXJ5UGFja2FnZVBhZ2VcU2FsYXJ5UGFja2FnZUVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/SalaryPackagePage/Salarypackagelist.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcU2FsYXJ5UGFja2FnZVBhZ2VcU2FsYXJ5cGFja2FnZWxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/SalaryVoucheerPage/SalaryVoucherAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcU2FsYXJ5Vm91Y2hlZXJQYWdlXFNhbGFyeVZvdWNoZXJBZGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PayrollPage/SalaryVoucheerPage/SalaryVoucherlist.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5cm9sbFBhZ2VcU2FsYXJ5Vm91Y2hlZXJQYWdlXFNhbGFyeVZvdWNoZXJsaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ProductPage/ProductAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VcUHJvZHVjdEFkZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ProductPage/ProductEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VcUHJvZHVjdEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ProductPage/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VcUHJvZHVjdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchasePage/PurchaseInvoicePage/PurchaseInvoiceAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VQYWdlXFB1cmNoYXNlSW52b2ljZVBhZ2VcUHVyY2hhc2VJbnZvaWNlQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchasePage/PurchaseInvoicePage/PurchaseInvoiceEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VQYWdlXFB1cmNoYXNlSW52b2ljZVBhZ2VcUHVyY2hhc2VJbnZvaWNlRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchasePage/PurchaseInvoicePage/PurchaseInvoiceList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VQYWdlXFB1cmNoYXNlSW52b2ljZVBhZ2VcUHVyY2hhc2VJbnZvaWNlTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchasePage/PurchaseInvoicePage/PurchasePrint.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VQYWdlXFB1cmNoYXNlSW52b2ljZVBhZ2VcUHVyY2hhc2VQcmludC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchasePage/PurchaseInvoicePage/PurchaseViewPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VQYWdlXFB1cmNoYXNlSW52b2ljZVBhZ2VcUHVyY2hhc2VWaWV3UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchasePage/SupplierPage/SupplierList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VQYWdlXFN1cHBsaWVyUGFnZVxTdXBwbGllckxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchaseReturnPage/PurchaseReturnAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VSZXR1cm5QYWdlXFB1cmNoYXNlUmV0dXJuQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchaseReturnPage/PurchaseReturnEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VSZXR1cm5QYWdlXFB1cmNoYXNlUmV0dXJuRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchaseReturnPage/PurchaseReturnList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VSZXR1cm5QYWdlXFB1cmNoYXNlUmV0dXJuTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchaseReturnPage/PurchaseReturnPrintPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VSZXR1cm5QYWdlXFB1cmNoYXNlUmV0dXJuUHJpbnRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PurchaseReturnPage/PurchaseReturnViewPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VSZXR1cm5QYWdlXFB1cmNoYXNlUmV0dXJuVmlld1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/AccountReports/AccountTransaction.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcQWNjb3VudFJlcG9ydHNcQWNjb3VudFRyYW5zYWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/AccountReports/BalanceSheetPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcQWNjb3VudFJlcG9ydHNcQmFsYW5jZVNoZWV0UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/AccountReports/GeneralLedgerReport.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcQWNjb3VudFJlcG9ydHNcR2VuZXJhbExlZGdlclJlcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/AccountReports/ProfitNLossPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcQWNjb3VudFJlcG9ydHNcUHJvZml0Tkxvc3NQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/AccountReports/TrailBalancePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcQWNjb3VudFJlcG9ydHNcVHJhaWxCYWxhbmNlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/InventoryItemPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcSW52ZW50b3J5SXRlbVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/PayableSummary.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcUGF5YWJsZVN1bW1hcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/PaymentsMadeReport.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcUGF5bWVudHNNYWRlUmVwb3J0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/PaymentsReceivedReport.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcUGF5bWVudHNSZWNlaXZlZFJlcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/PayrollReports/AdvancePaymentReport.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcUGF5cm9sbFJlcG9ydHNcQWR2YW5jZVBheW1lbnRSZXBvcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/PayrollReports/MonthlySalaryReport.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcUGF5cm9sbFJlcG9ydHNcTW9udGhseVNhbGFyeVJlcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/PurchasebyItemPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcUHVyY2hhc2VieUl0ZW1QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/PurchasebySupplierPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcUHVyY2hhc2VieVN1cHBsaWVyUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/ReceivablesSummary.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcUmVjZWl2YWJsZXNTdW1tYXJ5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/SalesbyCustomerPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcU2FsZXNieUN1c3RvbWVyUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/SalesbyItemPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcU2FsZXNieUl0ZW1QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/StockReportPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcU3RvY2tSZXBvcnRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SaasPage/CountryPage/CountryList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Fhc1BhZ2VcQ291bnRyeVBhZ2VcQ291bnRyeUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SaasPage/CouponsaasPage/CouponsList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Fhc1BhZ2VcQ291cG9uc2Fhc1BhZ2VcQ291cG9uc0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SaasPage/CurrencyPage/CurrencyList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Fhc1BhZ2VcQ3VycmVuY3lQYWdlXEN1cnJlbmN5TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SaasPage/FeaturesPage/FeaturesList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Fhc1BhZ2VcRmVhdHVyZXNQYWdlXEZlYXR1cmVzTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SaasPage/PaymenttypePage/PaymenttypeList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Fhc1BhZ2VcUGF5bWVudHR5cGVQYWdlXFBheW1lbnR0eXBlTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SaasPage/PlanPage/PlanAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Fhc1BhZ2VcUGxhblBhZ2VcUGxhbkFkZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SaasPage/PlanPage/PlanEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Fhc1BhZ2VcUGxhblBhZ2VcUGxhbkVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SaasPage/WebsitePage/WebsiteSettingList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Fhc1BhZ2VcV2Vic2l0ZVBhZ2VcV2Vic2l0ZVNldHRpbmdMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesPage/CustomerPage/CustomerList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNQYWdlXEN1c3RvbWVyUGFnZVxDdXN0b21lckxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesPage/SalesInvoicePage/SalesInvoiceAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNQYWdlXFNhbGVzSW52b2ljZVBhZ2VcU2FsZXNJbnZvaWNlQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesPage/SalesInvoicePage/SalesInvoiceEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNQYWdlXFNhbGVzSW52b2ljZVBhZ2VcU2FsZXNJbnZvaWNlRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesPage/SalesInvoicePage/SalesInvoiceList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNQYWdlXFNhbGVzSW52b2ljZVBhZ2VcU2FsZXNJbnZvaWNlTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesPage/SalesInvoicePage/SalesInvoicePdft.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNQYWdlXFNhbGVzSW52b2ljZVBhZ2VcU2FsZXNJbnZvaWNlUGRmdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesPage/SalesInvoicePage/SalesInvoicePrint.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNQYWdlXFNhbGVzSW52b2ljZVBhZ2VcU2FsZXNJbnZvaWNlUHJpbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesPage/SalesInvoicePage/SalesInvoiceViewPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNQYWdlXFNhbGVzSW52b2ljZVBhZ2VcU2FsZXNJbnZvaWNlVmlld1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesReturnPage/SalesReturnAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNSZXR1cm5QYWdlXFNhbGVzUmV0dXJuQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesReturnPage/SalesReturnEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNSZXR1cm5QYWdlXFNhbGVzUmV0dXJuRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesReturnPage/SalesReturnList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNSZXR1cm5QYWdlXFNhbGVzUmV0dXJuTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesReturnPage/SalesReturnPrintPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNSZXR1cm5QYWdlXFNhbGVzUmV0dXJuUHJpbnRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SalesReturnPage/SalesReturnViewPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNSZXR1cm5QYWdlXFNhbGVzUmV0dXJuVmlld1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SettingPage/CompanyPage/CompanyList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ1BhZ2VcQ29tcGFueVBhZ2VcQ29tcGFueUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SettingPage/EmailsPage/EmailsList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ1BhZ2VcRW1haWxzUGFnZVxFbWFpbHNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SettingPage/PreferencesPage/PreferenceList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ1BhZ2VcUHJlZmVyZW5jZXNQYWdlXFByZWZlcmVuY2VMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SettingPage/ProjectsPage/ProjectsList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ1BhZ2VcUHJvamVjdHNQYWdlXFByb2plY3RzTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SettingPage/SettingList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ1BhZ2VcU2V0dGluZ0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SettingPage/TaxPage/TaxList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ1BhZ2VcVGF4UGFnZVxUYXhMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SettingPage/UnitsPage/UnitsList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ1BhZ2VcVW5pdHNQYWdlXFVuaXRzTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SettingPage/WarehousessPage/WarehousesList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ1BhZ2VcV2FyZWhvdXNlc3NQYWdlXFdhcmVob3VzZXNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SetupPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Shared/FrontHeaderLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZyb250SGVhZGVyTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Shared/HeaderLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlYWRlckxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Shared/LoginDefault.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGVmYXVsdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Shared/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Shared/PrintLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByaW50TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Shared/SetupHeaderLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNldHVwSGVhZGVyTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Shared/SetupLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNldHVwTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/AccountPages/JournalVoucher/JournalVoucherAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXEpvdXJuYWxWb3VjaGVyXEpvdXJuYWxWb3VjaGVyQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-pt7mmi3ck4
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/AccountPages/JournalVoucher/JournalVoucherEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXEpvdXJuYWxWb3VjaGVyXEpvdXJuYWxWb3VjaGVyRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-dix5u1a9dc
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-zjttamkwj2
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/PermissionPage/PermissionList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVybWlzc2lvblBhZ2VcUGVybWlzc2lvbkxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-b3sa03lpno
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/ReportsPage/ReportPageList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1BhZ2VcUmVwb3J0UGFnZUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3rsfq4nhwl
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SaasPage/OrdersPage/OrdersList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Fhc1BhZ2VcT3JkZXJzUGFnZVxPcmRlcnNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-ewkcwndmlr
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SaasPage/PlanPage/PlanList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Fhc1BhZ2VcUGxhblBhZ2VcUGxhbkxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0d1mzxzi36
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/SettingPage/CategoriesPage/CategoriesList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ1BhZ2VcQ2F0ZWdvcmllc1BhZ2VcQ2F0ZWdvcmllc0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-uu7dy4fgub
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-12ycz0xtwy
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7wenxy40wt
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Manage/Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Manage/Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcTmF2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Suvendu Drive/Freelance Website/Openbook/Openbook/Openbook/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

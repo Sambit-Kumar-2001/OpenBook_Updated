@@ -1,0 +1,36 @@
+.nav-tabs[b-3rsfq4nhwl] {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.nav[b-3rsfq4nhwl] {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.nav-tabs-dashed .nav-link.active[b-3rsfq4nhwl] {
+    color: #21263c;
+    background-color: inherit;
+}
+
+.nav-tabs .nav-link.active[b-3rsfq4nhwl] {
+    font-weight: 600;
+}
+
+.nav-tabs-dashed .nav-link.active[b-3rsfq4nhwl], .nav-tabs-dashed .nav-link.active:focus[b-3rsfq4nhwl], .nav-tabs-dashed .nav-link.active:hover[b-3rsfq4nhwl] {
+    border: 0;
+}
+
+.nav-tabs .nav-link.active[b-3rsfq4nhwl], .nav-tabs .nav-item.show .nav-link[b-3rsfq4nhwl] {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.nav-tabs-dashed .nav-link[b-3rsfq4nhwl] {
+    color: #4c526c;
+}
+h4[b-3rsfq4nhwl]{
+    font-size:18px;
+}

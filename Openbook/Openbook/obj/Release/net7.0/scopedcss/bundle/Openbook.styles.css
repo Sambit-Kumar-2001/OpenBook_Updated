@@ -1,0 +1,434 @@
+/* _content/Openbook/Pages/AccountPages/JournalVoucher/JournalVoucherAdd.razor.rz.scp.css */
+[b-pt7mmi3ck4]::selection {
+    color: #fff;
+    background: #4285f4;
+}
+
+.wrapper1[b-pt7mmi3ck4] {
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+}
+
+.select-btn[b-pt7mmi3ck4], li[b-pt7mmi3ck4] {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.select-btn[b-pt7mmi3ck4] {
+    height: 36px;
+    padding: 0px 8px;
+    font-size: 14px;
+    background: #fff;
+    border-radius: 7px;
+    justify-content: space-between;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    width: 100%;
+}
+
+    .select-btn i[b-pt7mmi3ck4] {
+        font-size: 20px;
+        transition: transform 0.3s linear;
+    }
+
+.wrapper1.active .select-btn i[b-pt7mmi3ck4] {
+    transform: rotate(-180deg);
+}
+
+.content1[b-pt7mmi3ck4] {
+    padding: 10px;
+    margin-top: 5px;
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    position: absolute;
+}
+
+.wrapper1.active .content1[b-pt7mmi3ck4] {
+    display: block;
+}
+
+.content1 .search[b-pt7mmi3ck4] {
+    position: relative;
+}
+
+.search i[b-pt7mmi3ck4] {
+    top: 50%;
+    left: 15px;
+    color: #999;
+    font-size: 20px;
+    pointer-events: none;
+    transform: translateY(-50%);
+    position: absolute;
+}
+
+.search input[b-pt7mmi3ck4] {
+    height: 36px;
+    width: 100%;
+    outline: none;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 0 16px 0 39px;
+    border: 1px solid #B3B3B3;
+}
+
+    .search input:focus[b-pt7mmi3ck4] {
+        padding-left: 42px;
+        border: 2px solid #4285f4;
+    }
+
+    .search input[b-pt7mmi3ck4]::placeholder {
+        color: #bfbfbf;
+    }
+
+.content1 .options[b-pt7mmi3ck4] {
+    margin-top: 10px;
+    max-height: 250px;
+    overflow-y: auto;
+    padding-right: 7px;
+}
+
+.options[b-pt7mmi3ck4]::-webkit-scrollbar {
+    width: 7px;
+}
+
+.options[b-pt7mmi3ck4]::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 25px;
+}
+
+.options[b-pt7mmi3ck4]::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 25px;
+}
+
+    .options[b-pt7mmi3ck4]::-webkit-scrollbar-thumb:hover {
+        /*background: #b3b3b3;*/
+    }
+
+.options li[b-pt7mmi3ck4] {
+    height: 30px;
+    padding: 0 22px;
+    font-size: 14px;
+}
+
+    .options li:hover[b-pt7mmi3ck4], li.selected[b-pt7mmi3ck4] {
+        border-radius: 5px;
+        background: #f2f2f2;
+    }
+.disabled[b-pt7mmi3ck4] {
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+/* _content/Openbook/Pages/AccountPages/JournalVoucher/JournalVoucherEdit.razor.rz.scp.css */
+[b-dix5u1a9dc]::selection {
+    color: #fff;
+    background: #4285f4;
+}
+
+.wrapper1[b-dix5u1a9dc] {
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+}
+
+.select-btn[b-dix5u1a9dc], li[b-dix5u1a9dc] {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.select-btn[b-dix5u1a9dc] {
+    height: 36px;
+    padding: 0px 8px;
+    font-size: 14px;
+    background: #fff;
+    border-radius: 7px;
+    justify-content: space-between;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    width: 100%;
+}
+
+    .select-btn i[b-dix5u1a9dc] {
+        font-size: 20px;
+        transition: transform 0.3s linear;
+    }
+
+.wrapper1.active .select-btn i[b-dix5u1a9dc] {
+    transform: rotate(-180deg);
+}
+
+.content1[b-dix5u1a9dc] {
+    padding: 10px;
+    margin-top: 5px;
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    position: absolute;
+}
+
+.wrapper1.active .content1[b-dix5u1a9dc] {
+    display: block;
+}
+
+.content1 .search[b-dix5u1a9dc] {
+    position: relative;
+}
+
+.search i[b-dix5u1a9dc] {
+    top: 50%;
+    left: 15px;
+    color: #999;
+    font-size: 20px;
+    pointer-events: none;
+    transform: translateY(-50%);
+    position: absolute;
+}
+
+.search input[b-dix5u1a9dc] {
+    height: 36px;
+    width: 100%;
+    outline: none;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 0 16px 0 39px;
+    border: 1px solid #B3B3B3;
+}
+
+    .search input:focus[b-dix5u1a9dc] {
+        padding-left: 42px;
+        border: 2px solid #4285f4;
+    }
+
+    .search input[b-dix5u1a9dc]::placeholder {
+        color: #bfbfbf;
+    }
+
+.content1 .options[b-dix5u1a9dc] {
+    margin-top: 10px;
+    max-height: 250px;
+    overflow-y: auto;
+    padding-right: 7px;
+}
+
+.options[b-dix5u1a9dc]::-webkit-scrollbar {
+    width: 7px;
+}
+
+.options[b-dix5u1a9dc]::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 25px;
+}
+
+.options[b-dix5u1a9dc]::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 25px;
+}
+
+    .options[b-dix5u1a9dc]::-webkit-scrollbar-thumb:hover {
+        /*background: #b3b3b3;*/
+    }
+
+.options li[b-dix5u1a9dc] {
+    height: 30px;
+    padding: 0 22px;
+    font-size: 14px;
+}
+
+    .options li:hover[b-dix5u1a9dc], li.selected[b-dix5u1a9dc] {
+        border-radius: 5px;
+        background: #f2f2f2;
+    }
+.disabled[b-dix5u1a9dc] {
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+/* _content/Openbook/Pages/Counter.razor.rz.scp.css */
+/* _content/Openbook/Pages/PermissionPage/PermissionList.razor.rz.scp.css */
+.box-header[b-b3sa03lpno] {
+    color: #455a64;
+    display: block;
+    padding: 0.8rem 1.8rem;
+    position: relative;
+    border-bottom: 1px solid #f1f1f1;
+}
+.fs-20[b-b3sa03lpno] {
+    font-size: 20px !important;
+    font-weight: normal;
+}
+.permission_list div.form-group[b-b3sa03lpno] {
+    border: 1px solid #ddd;
+    padding: 12px 0 0px 13px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+.form-group label[b-b3sa03lpno] {
+    font-weight: 500;
+    font-size: 15px;
+    color: #333;
+}
+
+[type=checkbox] + label[b-b3sa03lpno] {
+    font-weight: 500;
+    position: relative;
+    padding-left: 35px;
+    cursor: pointer;
+    display: inline-block;
+    height: 25px;
+    line-height: 25px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -ms-user-select: none;
+}
+/* _content/Openbook/Pages/ReportsPage/ReportPageList.razor.rz.scp.css */
+.nav-tabs[b-3rsfq4nhwl] {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.nav[b-3rsfq4nhwl] {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.nav-tabs-dashed .nav-link.active[b-3rsfq4nhwl] {
+    color: #21263c;
+    background-color: inherit;
+}
+
+.nav-tabs .nav-link.active[b-3rsfq4nhwl] {
+    font-weight: 600;
+}
+
+.nav-tabs-dashed .nav-link.active[b-3rsfq4nhwl], .nav-tabs-dashed .nav-link.active:focus[b-3rsfq4nhwl], .nav-tabs-dashed .nav-link.active:hover[b-3rsfq4nhwl] {
+    border: 0;
+}
+
+.nav-tabs .nav-link.active[b-3rsfq4nhwl], .nav-tabs .nav-item.show .nav-link[b-3rsfq4nhwl] {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.nav-tabs-dashed .nav-link[b-3rsfq4nhwl] {
+    color: #4c526c;
+}
+h4[b-3rsfq4nhwl]{
+    font-size:18px;
+}
+/* _content/Openbook/Pages/SaasPage/OrdersPage/OrdersList.razor.rz.scp.css */
+.plan-header[b-ewkcwndmlr] {
+    margin: 0 0 16px 0;
+}
+.plan-header .plan-widget-icon[b-ewkcwndmlr] {
+        background: #ECEBFF;
+        padding: 10px;
+        border-radius: 16px;
+    }
+.plan-header .plan-title[b-ewkcwndmlr] {
+
+    }
+.plan-header .plan-name[b-ewkcwndmlr] {
+        font-weight: 700;
+    }
+
+h4[b-ewkcwndmlr] {
+    font-weight: 600;
+    font-size: 18px;
+}
+.plan-description ul li[b-ewkcwndmlr] {
+    margin: 0 0 14px 0;
+}
+
+.plan-description ul li span[b-ewkcwndmlr] {
+        background: #4A3AFF;
+        color: #fff;
+        display: inline-flex;
+        margin: 0;
+        padding: 3px;
+        line-height: 0;
+    }
+
+.rounded-circle[b-ewkcwndmlr] {
+    border-radius: 50% !important;
+}
+.plan-description[b-ewkcwndmlr] {
+    margin: 0 0 34px 0;
+}
+.price-dollar h1 span[b-ewkcwndmlr] {
+    font-weight: 500;
+    color: #878A99;
+    font-size: 13px;
+}
+.price-dollar h1[b-ewkcwndmlr] {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+}
+.plan-description h6[b-ewkcwndmlr] {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 18px 0;
+}
+/* _content/Openbook/Pages/SaasPage/PlanPage/PlanList.razor.rz.scp.css */
+.plan-header[b-0d1mzxzi36] {
+    margin: 0 0 16px 0;
+}
+.plan-header .plan-widget-icon[b-0d1mzxzi36] {
+        background: #ECEBFF;
+        padding: 10px;
+        border-radius: 16px;
+    }
+.plan-header .plan-title[b-0d1mzxzi36] {
+
+    }
+.plan-header .plan-name[b-0d1mzxzi36] {
+        font-weight: 700;
+    }
+
+h4[b-0d1mzxzi36] {
+    font-weight: 600;
+    font-size: 18px;
+}
+.plan-description ul li[b-0d1mzxzi36] {
+    margin: 0 0 14px 0;
+}
+
+.plan-description ul li span[b-0d1mzxzi36] {
+        background: #4A3AFF;
+        color: #fff;
+        display: inline-flex;
+        margin: 0;
+        padding: 3px;
+        line-height: 0;
+    }
+
+.rounded-circle[b-0d1mzxzi36] {
+    border-radius: 50% !important;
+}
+.plan-description[b-0d1mzxzi36] {
+    margin: 0 0 34px 0;
+}
+.price-dollar h1 span[b-0d1mzxzi36] {
+    font-weight: 500;
+    color: #878A99;
+    font-size: 13px;
+}
+.price-dollar h1[b-0d1mzxzi36] {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+}
+.plan-description h6[b-0d1mzxzi36] {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 18px 0;
+}
+/* _content/Openbook/Pages/SettingPage/CategoriesPage/CategoriesList.razor.rz.scp.css */
+/* _content/Openbook/Shared/MainLayout.razor.rz.scp.css */
+/* _content/Openbook/Shared/NavMenu.razor.rz.scp.css */

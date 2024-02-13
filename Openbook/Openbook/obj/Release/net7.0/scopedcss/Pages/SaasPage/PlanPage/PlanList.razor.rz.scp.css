@@ -1,0 +1,53 @@
+.plan-header[b-0d1mzxzi36] {
+    margin: 0 0 16px 0;
+}
+.plan-header .plan-widget-icon[b-0d1mzxzi36] {
+        background: #ECEBFF;
+        padding: 10px;
+        border-radius: 16px;
+    }
+.plan-header .plan-title[b-0d1mzxzi36] {
+
+    }
+.plan-header .plan-name[b-0d1mzxzi36] {
+        font-weight: 700;
+    }
+
+h4[b-0d1mzxzi36] {
+    font-weight: 600;
+    font-size: 18px;
+}
+.plan-description ul li[b-0d1mzxzi36] {
+    margin: 0 0 14px 0;
+}
+
+.plan-description ul li span[b-0d1mzxzi36] {
+        background: #4A3AFF;
+        color: #fff;
+        display: inline-flex;
+        margin: 0;
+        padding: 3px;
+        line-height: 0;
+    }
+
+.rounded-circle[b-0d1mzxzi36] {
+    border-radius: 50% !important;
+}
+.plan-description[b-0d1mzxzi36] {
+    margin: 0 0 34px 0;
+}
+.price-dollar h1 span[b-0d1mzxzi36] {
+    font-weight: 500;
+    color: #878A99;
+    font-size: 13px;
+}
+.price-dollar h1[b-0d1mzxzi36] {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+}
+.plan-description h6[b-0d1mzxzi36] {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 18px 0;
+}

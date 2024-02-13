@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Suvendu Drive\PublishedWebsite</_PublishTargetUrl>
+    <History>True|2023-12-27T16:41:14.5834303Z;True|2023-12-27T21:49:02.8756811+05:30;True|2023-12-27T21:30:51.7147132+05:30;True|2023-12-27T21:18:56.1954344+05:30;True|2023-12-27T20:15:05.8149847+05:30;True|2023-12-24T22:25:45.7303599+05:30;True|2023-12-24T16:16:12.3177080+05:30;True|2023-12-23T13:53:53.3914061+05:30;True|2023-07-06T00:49:37.8523950+05:30;True|2023-06-29T10:24:57.7418268+05:30;True|2023-06-28T18:35:37.3121973+05:30;True|2023-06-11T23:50:40.0448913+05:30;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=103.235.104.132%3bInitial Catalog=openbook_db%3bTrustServerCertificate=true%3bPersist Security Info=True%3bUser ID=openbook_user%3bPassword=v4b7U0m%246</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
